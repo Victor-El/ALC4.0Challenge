@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALC4.0Challenge</string>
+
+    <string-array name="profile_items">
+        <item>Track:  Android</item>
+        <item>Country:  Nigeria</item>
+        <item>Email:  chivicbtc@gmail.com</item>
+        <item>Phone:  +(234)907 628 2648</item>
+        <item>Slack Username:  CodeEnzyme</item>
+    </string-array>
+</resources>
